@@ -1,0 +1,28 @@
+
+# jQuery Effect Methods
+
+[Sadržaj](README.md)
+
+The following table lists all the jQuery methods for creating animation effects.
+
+| Method | Description |
+| ------ | ----------- |
+| animate() | Runs a custom animation on the selected elements |
+| clearQueue() | Removes all remaining queued functions from the selected elements |
+| delay() | Sets a delay for all queued functions on the selected elements |
+| dequeue() | Removes the next function from the queue, and then executes the function |
+| fadeIn() | Fades in the selected elements |
+| fadeOut() | Fades out the selected elements |
+| fadeTo() | Fades in/out the selected elements to a given opacity |
+| fadeToggle() | Toggles between the fadeIn() and fadeOut() methods |
+| finish() | Stops, removes and completes all queued animations for the selected elements |
+| hide() | Hides the selected elements |
+| queue() | Shows the queued functions on the selected elements |
+| show() | Shows the selected elements |
+| slideDown() | Slides-down (shows) the selected elements |
+| slideToggle() | Toggles between the slideUp() and slideDown() methods |
+| slideUp() | Slides-up (hides) the selected elements |
+| stop() | Stops the currently running animation for the selected elements |
+| toggle() | Toggles between the hide() and show() methods |
+
+[Sadržaj](README.md)
